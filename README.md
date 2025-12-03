@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Olá! Sou Alyson, <b>Técnico em Informática para Internet</b> e estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma base sólida em desenvolvimento web (HTML, CSS, JavaScript) e experiência prática em projetos acadêmicos. Sou proativo, apaixonado por tecnologia e busco constantemente novos desafios para aplicar meus conhecimentos em soluções inovadoras.
+Olá! Sou Alyson, <b>Técnico em Informática para Internet</b> e estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma base sólida em desenvolvimento web Front-end, um pouco de Back e Banco de Dados e experiência prática em projetos acadêmicos. Sou proativo, apaixonado por tecnologia e busco constantemente novos desafios para aplicar meus conhecimentos em soluções inovadoras.
 </p>
 
 <!-- Seção de Educação adicionada do CV -->
