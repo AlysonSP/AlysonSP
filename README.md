@@ -37,5 +37,4 @@ Olá! Sou Alyson, um entusiasta do desenvolvimento de software com foco em criar
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonSP&theme=dark&hide_border=false" alt="Sequência de Contribuições de AlysonSP" />
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonSP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Linguagens de AlysonSP" />
 </p>
