@@ -50,17 +50,6 @@ Olá! Sou Alyson, <b>Técnico em Informática para Internet</b> e estudante de <
   <img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlysonSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de AlysonSP" />
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonSP&theme=dark&hide_border=false" alt="Sequência de Contribuições de AlysonSP" />
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Linguagens de AlysonSP" />
-</p>
 
 <hr>
 
