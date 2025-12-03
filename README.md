@@ -5,8 +5,29 @@
 </p>
 
 <p align="center">
-Olá! Sou Alyson, um entusiasta do desenvolvimento de software com foco em criar experiências web dinâmicas e funcionais. Estou sempre explorando novas tecnologias para aprimorar minhas habilidades e construir projetos de alto impacto.
+Olá! Sou Alyson, <b>Técnico em Informática para Internet</b> e estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Tenho uma base sólida em desenvolvimento web (HTML, CSS, JavaScript) e experiência prática em projetos acadêmicos. Sou proativo, apaixonado por tecnologia e busco constantemente novos desafios para aplicar meus conhecimentos em soluções inovadoras.
 </p>
+
+<!-- Seção de Educação adicionada do CV -->
+<h3 align="center">🎓 Formação Acadêmica</h3>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center"><b>Análise e Desenvolvimento de Sistemas</b></td>
+      <td align="center">|</td>
+      <td align="center">Estácio</td>
+      <td align="center">|</td>
+      <td align="center"><i>Previsão: 2026</i></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Técnico em Informática para Internet</b></td>
+      <td align="center">|</td>
+      <td align="center">SENAC Santos</td>
+      <td align="center">|</td>
+      <td align="center"><i>Concluído: 2023</i></td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -15,14 +36,14 @@ Olá! Sou Alyson, um entusiasta do desenvolvimento de software com foco em criar
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <br>
   <!-- Back-end & Data -->
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <br>
   <!-- Database & Tools -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -32,9 +53,19 @@ Olá! Sou Alyson, um entusiasta do desenvolvimento de software com foco em criar
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlysonSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de AlysonSP" />
   <br/>
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlysonSP&theme=dark&hide_border=false" alt="Sequência de Contribuições de AlysonSP" />
   <br/>
   <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlysonSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Linguagens de AlysonSP" />
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="mailto:alysonsilvaprado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
